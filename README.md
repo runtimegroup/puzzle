@@ -8,4 +8,4 @@ cuifan、cuili、guoning、heweixiao、lipuyang、lixiaoxue、liuguanyu、raozha
 
 leetcode或者外站，可以贴地址。
 
-要求可以检查对错
+要求可以检查对错，不限制实现语言
