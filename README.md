@@ -7,3 +7,5 @@ cuifan、cuili、guoning、heweixiao、lipuyang、lixiaoxue、liuguanyu、raozha
 提issue即可。大家在issue跟贴。
 
 leetcode或者外站，可以贴地址。
+
+要求可以检查对错
